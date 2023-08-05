@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #e6e1e1;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #000000;
+    padding: 10px;
+}
+
+.image {
+    width: 20%;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label, input[type="radio"], img {
+    margin: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #121922;
+}
+
+.result {
+    font-size: 20px;
+    margin-top: 20px;
+}
